@@ -14,7 +14,7 @@ waldayu.transducers["hateruma_compare"] = (function() {
         "name": "Hateruma",
         "underlying": "",
         "compare": "hateruma_compare",
-        "lettersInLanguage" : ['a', 'aa', 'b', 'd', 'e', 'ee', 'g', 'g̲', 'gw', 'gy', 'h', 'hl', 'i', 'ii', 'j', 'k', 'k̲', "k'", "k̲'", 'kw', "kw'", 'ky', "ky'", 'l', "'l", 'm', "'m", 'n', "'n", 'o', 'oo', 'p', "p'", 's', 't', "t'", 'ts', "ts'", 'u', 'uu', 'w', "'w", 'x', 'x̲', 'xw', 'y', "'y", "'"]
+        "lettersInLanguage" : ['a', 'aa', 'i', 'ii', 'ï', 'ïï', 'u', 'uu', 'e', 'ee', 'o', 'oo', 'k', 'g', 's', 'z', 't', 'd', 'n', 'h', 'p', 'b', 'm', 'j', 'r', 'w', 'n']
     },
     "L2": {
         "name": "English",
